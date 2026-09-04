@@ -1,0 +1,6 @@
+# Arduino build output
+build/
+
+# Arduino IDE and editor settings
+.vscode/
+*.code-workspace

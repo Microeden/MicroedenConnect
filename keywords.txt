@@ -1,0 +1,24 @@
+# Syntax Coloring Map For MicroedenConnect
+
+# Datatypes (KEYWORD1)
+MicroedenConnect KEYWORD1
+CloudWidget KEYWORD1
+Level KEYWORD1
+Slider KEYWORD1
+Switch KEYWORD1
+Pushbutton KEYWORD1
+Led KEYWORD1
+Photo KEYWORD1
+Map KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin KEYWORD2
+writeKeyWord KEYWORD2
+readKeyWord KEYWORD2
+onCommand KEYWORD2
+run KEYWORD2
+send KEYWORD2
+isConnected KEYWORD2
+setBufferSize KEYWORD2
+write KEYWORD2
+read KEYWORD2
